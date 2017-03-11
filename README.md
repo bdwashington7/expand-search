@@ -131,7 +131,7 @@
                 $('.sb-search-submit').css('z-index','99');
             } else{
                 $('.sb-search-input').val(''); 
-                $('.sb-search-submit').css('z-index','-999');
+                $('.sb-search-submit').css('z-index','999');
             }
     }
     
