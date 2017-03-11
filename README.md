@@ -165,7 +165,6 @@
                 searchBox.removeClass('sb-search-open');
                 isOpen = false;
             }
-    });
+	    });
 
-});	
-==========================================
+	});	
